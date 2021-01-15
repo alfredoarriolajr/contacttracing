@@ -42,3 +42,9 @@ video {
 ::placeholder {
   color:#fff;
 }
+
+h1 {
+  color: #fff;
+  font-size: 100px;
+  margin-top: -100px;
+}

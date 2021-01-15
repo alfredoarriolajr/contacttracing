@@ -10,15 +10,15 @@ function CheckinComponent() {
             <video className="vid" src='/videos/video-2.mp4' autoPlay loop muted />
                 <div className="col-sm-4">
                 <FormGroup row>
-                    <Label className='label'>First Name</Label>
+                    <Label className='label'>Name</Label>
                     <Col>
-                        <Input className='input' type="text" placeholder="Your First Name" />
+                        <Input className='input' type="text" placeholder="Your Name" />
                     </Col>
                 </FormGroup>
                 <FormGroup row>
-                    <Label className='label'>Last Name</Label>
+                    <Label className='label'>email</Label>
                     <Col>
-                        <Input className='input' type="text" placeholder="Your Last Name" />
+                        <Input className='input' type="text" placeholder="Your email" />
                     </Col>
                 </FormGroup>
                 <FormGroup row>
